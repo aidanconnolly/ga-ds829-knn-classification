@@ -9,7 +9,6 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | K-Nearest Neighbors with Scikit-Learn | [Here](./knn_with_sklearn.ipynb) |
-| Solution  | Solution code for lesson prompts | [Here](./solution-code/knn_with_sklearn-solution.ipynb) |
 | Data | 2015 Season Statistics for ~500 NBA Players | [Here](./data/NBA_players_2015.csv) |
 |  | The Iris Dataset (Flowers) | [Here](./data/iris.data) |
 | Practice | Two sample activities to practice KNN | [Here](./practice/) |
